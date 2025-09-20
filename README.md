@@ -1,2 +1,64 @@
-# zhihu-search-helper
-🔍 Lightweight user script, call out the search box with one click, and quickly jump to search within Zhihu site. Supports global shortcut keys, non-invasive design, and has a simple and efficient experience.🔍 轻量级用户脚本，一键唤出搜索框，快速跳转知乎站内搜索。支持全局快捷键，无侵入式设计，体验简约高效。
+# 搜索知乎 - 用户脚本
+
+一个简约现代的 Tampermonkey 用户脚本，让您在任何网页上快速搜索知乎内容。
+
+## ✨ 功能特点
+
+- 🚀 一键触发搜索框
+- 🌐 全网通用（支持所有网站）
+- 🎨 简约现代UI设计
+- ⚡ 轻量级，无性能影响
+- 🔒 无需特殊权限
+
+## 📦 安装要求
+
+- 需要安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
+- 支持所有主流浏览器（Chrome、Firefox、Edge、Safari等）
+
+## 🔧 安装方法
+
+1. 点击 Tampermonkey 扩展图标
+2. 选择"创建新脚本"
+3. 清空编辑器内容
+4. 复制并粘贴整个脚本代码
+5. 保存文件（Ctrl+S）
+
+## 🎯 使用方法
+
+1. 在任何网页上，点击浏览器右上角的 Tampermonkey 图标
+2. 选择"搜索知乎"脚本
+3. 在弹出的搜索框中输入关键词
+4. 按回车或点击搜索按钮
+5. 自动跳转到知乎搜索结果页面
+
+## 🛠️ 技术细节
+
+- **纯前端实现**：无需后端服务
+- **无依赖**：不依赖任何外部库
+- **跨平台**：支持所有现代浏览器
+- **轻量级**：代码简洁高效
+
+## 📝 更新日志
+
+### v1.1
+- 优化用户体验
+- 提升搜索框视觉效果
+- 改进响应式设计
+- 新增关闭按钮
+
+### v1.0
+- 初始版本发布
+- 基本搜索功能
+- 全局快捷键支持
+
+## 🤝 贡献
+
+欢迎提交 Issue 和 Pull Request 来改进这个项目。
+
+## 📄 许可证
+
+MIT License - 详见 LICENSE 文件
+
+---
+
+💡 **提示**：确保 Tampermonkey 扩展已启用，脚本才能正常工作。
